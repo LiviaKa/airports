@@ -1,4 +1,4 @@
-Airport,Country,IATA airport code,ICAO airport code
+airport,country,IATA airport code,ICAO airport code
 Tirana Airport,Albania,TIA,LATI
 Yerevan Zvartnots Airport,Armenia,EVN,UDYZ
 Graz Airport,Austria,GRZ,LOWG
@@ -32,7 +32,7 @@ Aalborg Airport,Denmark,AAL,EKYT
 Aarhus Airport,Denmark,AAR,EKAH
 Billund Airport,Denmark,BLL,EKBI
 Copenhagen Airport,Denmark,CPH,EKCH
-Vágar Airport,Denmark,FAE,EKVG
+VÃ¡gar Airport,Denmark,FAE,EKVG
 Tallinn Airport,Estonia,TLL,EETN
 Helsinki Airport,Finland,HEL,EFHK
 Oulu Airport,Finland,OUL,EFOU
@@ -48,7 +48,7 @@ Bordeaux Airport,France,BOD,LFBD
 Brest Bretagne Airport,France,BES,LFRB
 Figari South Corsica Airport,France,FSC,LFKF
 Lille Airport,France,LIL,LFQQ
-Lyon-Saint Exupéry Airport,France,LYS,LFLL
+Lyon-Saint ExupÃ©ry Airport,France,LYS,LFLL
 Marseille Airport,France,MRS,LFML
 Montpellier Airport,France,MPL,LFMT
 Nantes Airport,France,NTE,LFRS
@@ -58,20 +58,20 @@ Paris Charles de Gaulle Airport,France,CDG,LFPG
 Paris Orly Airport,France,ORY,LFPO
 Strasbourg Airport,France,SXB,LFST
 Rennes Bretagne Airport,France,RNS,LFRN
-Réunion Roland Garros Airport,France,RUN,FMEE
-Toulon-Hyères Airport,France,TLN,LFTH
+RÃ©union Roland Garros Airport,France,RUN,FMEE
+Toulon-HyÃ¨res Airport,France,TLN,LFTH
 Toulouse Blagnac Airport,France,TLS,LFBO
 Kutaisi Airport,Georgia,KUT,UGKO
 Tbilisi Airport,Georgia,TBS,UGTB
-Allgäu Airport Memmingen,Germany,FMM,EDJA
+AllgÃ¤u Airport Memmingen,Germany,FMM,EDJA
 Berlin Brandenburg Airport,Germany,BER,EDDB
-Berlin Schönefeld Airport,Germany,SXF,EDDB
+Berlin SchÃ¶nefeld Airport,Germany,SXF,EDDB
 Berlin Tegel Airport,Germany,TXL,EDDT
 Bremen Airport,Germany,BRE,EDDW
 Cologne Bonn Airport,Germany,CGN,EDDK
 Dortmund Airport,Germany,DTM,EDLW
 Dresden Airport,Germany,DRS,EDDC
-Düsseldorf Airport,Germany,DUS,EDDL
+DÃ¼sseldorf Airport,Germany,DUS,EDDL
 Frankfurt Airport,Germany,FRA,EDDF
 Frankfurt-Hahn Airport,Germany,HHN,EDFH
 Friedrichshafen Airport,Germany,FDH,EDNY
@@ -80,7 +80,7 @@ Hanover Airport,Germany,HAJ,EDDV
 Karlsruhe Baden-Baden Airport,Germany,FKB,EDSB
 Leipzig Halle Airport,Germany,LEJ,EDDP
 Munich Airport,Germany,MUC,EDDM
-Münster Osnabrück Airport,Germany,FMO,EDDG
+MÃ¼nster OsnabrÃ¼ck Airport,Germany,FMO,EDDG
 Nuremberg Airport,Germany,NUE,EDDN
 Paderborn Lippstadt Airport,Germany,PAD,EDLP
 Stuttgart Airport,Germany,STR,EDDS
@@ -147,21 +147,21 @@ Groningen Airport Eelde,Netherlands,GRQ,EHGG
 Maastricht Aachen Airport,Netherlands,MST,EHBK
 Rotterdam The Hague Airport,Netherlands,RTM,EHRD
 Skopje Airport,North Macedonia,SKP,LWSK
-Ålesund Airport,Norway,AES,ENAL
+Ã…lesund Airport,Norway,AES,ENAL
 Bergen Airport,Norway,BGO,ENBR
-Bodø Airport,Norway,BOO,ENBO
+BodÃ¸ Airport,Norway,BOO,ENBO
 Haugesund Airport,Norway,HAU,ENHD
 Kristiansand Airport,Norway,KRS,ENCN
 Oslo Airport,Norway,OSL,ENGM
 Sandefjord Airport Torp,Norway,TRF,ENTO
 Stavanger Airport,Norway,SVG,ENZV
-Tromsø Airport,Norway,TOS,ENTC
+TromsÃ¸ Airport,Norway,TOS,ENTC
 Trondheim Airport,Norway,TRD,ENVA
 Gdansk Airport,Poland,GDN,EPGD
 Katowice Airport,Poland,KTW,EPKT
-Kraków Airport,Poland,KRK,EPKK
+KrakÃ³w Airport,Poland,KRK,EPKK
 Poznan Airport,Poland,POZ,EPPO
-Szczecin-Goleniów Airport,Poland,SZZ,EPSC
+Szczecin-GoleniÃ³w Airport,Poland,SZZ,EPSC
 Warsaw Airport,Poland,WAW,EPWA
 Warsaw Modlin Airport,Poland,WMI,EPMO
 Wroclaw Airport,Poland,WRO,EPWR
@@ -184,9 +184,9 @@ Novosibirsk Tolmachevo Airport,Russia,OVB,UNNT
 Saint Petersburg Pulkovo Airport,Russia,LED,ULLI
 Sochi Airport,Russia,AER,URSS
 Belgrade Nikola Tesla Airport,Serbia,BEG,LYBE
-Niš Airport,Serbia,INI,LYNI
+NiÅ¡ Airport,Serbia,INI,LYNI
 Bratislava Airport,Slovakia,BTS,LZIB
-Košice Airport,Slovakia,KSC,LZKZ
+KoÅ¡ice Airport,Slovakia,KSC,LZKZ
 Ljubljana Airport,Slovenia,LJU,LJLJ
 Alicante Airport,Spain,ALC,LEAL
 Almeria Airport,Spain,LEI,LEAM
@@ -196,7 +196,7 @@ Bilbao Airport,Spain,BIO,LEBB
 Fuerteventura Airport,Spain,FUE,GCFV
 Girona Airport,Spain,GRO,LEGE
 Gran Canaria Airport,Spain,LPA,GCLP
-Granada-Jaén Airport,Spain,GRX,LEGR
+Granada-JaÃ©n Airport,Spain,GRX,LEGR
 Ibiza Airport,Spain,IBZ,LEIB
 Jerez Airport,Spain,XRY,LEJR
 La Palma Airport,Spain,SPC,GCLA
@@ -205,7 +205,7 @@ Madrid Barajas Airport,Spain,MAD,LEMD
 Malaga Airport,Spain,AGP,LEMG
 Menorca Airport,Spain,MAH,LEMH
 Palma de Mallorca Airport,Spain,PMI,LEPA
-Región de Murcia Airport,Spain,RMU,LEMI
+RegiÃ³n de Murcia Airport,Spain,RMU,LEMI
 Reus Airport,Spain,REU,LERS
 Santander Airport,Spain,SDR,LEXJ
 Santiago de Compostela Airport,Spain,SCQ,LEST
@@ -215,11 +215,11 @@ Tenerife South Airport,Spain,TFS,GCTS
 Valencia Airport,Spain,VLC,LEVC
 Zaragoza Airport,Spain,ZAZ,LEZG
 Gothenburg Landvetter Airport,Sweden,GOT,ESGG
-Malmö Airport,Sweden,MMX,ESMS
+MalmÃ¶ Airport,Sweden,MMX,ESMS
 Stockholm Arlanda Airport,Sweden,ARN,ESSA
 Stockholm Bromma Airport,Sweden,BMA,ESSB
 Stockholm Skavsta Airport,Sweden,NYO,ESKN
-Stockholm Västerås Airport,Sweden,VST,ESOW
+Stockholm VÃ¤sterÃ¥s Airport,Sweden,VST,ESOW
 Basel Mulhouse Freiburg Airport,Switzerland,BSL,LFSB
 Bern Airport,Switzerland,BRN,LSZB
 Geneva Airport,Switzerland,GVA,LSGG
@@ -229,7 +229,7 @@ Ankara Esenboga Airport,Turkey,ESB,LTAC
 Antalya Airport,Turkey,AYT,LTAI
 Dalaman Airport,Turkey,DLM,LTBS
 Istanbul New Airport,Turkey,IST,LTFM
-Istanbul Sabiha Gökcen Airport,Turkey,SAW,LTFJ
+Istanbul Sabiha GÃ¶kcen Airport,Turkey,SAW,LTFJ
 Izmir Adnan Menderes Airport,Turkey,ADB,LTBJ
 Milas-Bodrum Airport,Turkey,BJV,LTFE
 Trabzon Airport,Turkey,TZX,LTCG
